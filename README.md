@@ -1,4 +1,4 @@
 <img width="150" align="right" title="calculator icon" src="./resources/calculator.png" alt_text="[Calculator icons created by Freepik - Flaticon](https://www.flaticon.com/free-icon/calculator_2374370)"></img>
 
 # Calculator Unit Tests
-<p align="justify">This project was created for a <i>Testing and Software Quality</i> course, as taught at the Faculty of Electrical Engineering Banja Luka. The goal of the assignment was to get familiar with JUnit5 and Hamcrest matchers in Java 8. The project also contains well documented code and all of the javadoc is available in <a href="/tests">doc</a> folder.</p>
+<p align="justify">This project was created for a <i>Testing and Software Quality</i> course, as taught at the Faculty of Electrical Engineering Banja Luka. The goal of the assignment was to get familiar with JUnit5 and Hamcrest matchers in Java 8. The project also contains well documented code and all of the javadoc is available in <a href="/doc">doc</a> folder.</p>
